@@ -1,4 +1,4 @@
-
+<!-- Index file of Project P1 for HES class CSCIE 15 DWA -->
 
 <!DOCTYPE html>
 <html>
