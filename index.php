@@ -11,7 +11,7 @@
 
    <h1>GEORGE DAOU</h1>
 
-   <p><img src="myphoto.jpg" alt="Mountain View" style="width:304px;height:228px;"></p>
+   <p><img src="myphoto.jpg" alt="George's Photo" style="width:304px;height:228px;"></p>
 
    <h2>P2</h2>
    <p>Live: [ Link ]</p>
