@@ -3,15 +3,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Project 1</title>
-
+  <title>Project 1</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
 <body>
 
    <h1>GEORGE DAOU</h1>
 
-     <p><img src="/images/GeorgeDaou.jpg" alt="George's Photo" style="width:304px;height:228px;"></p>
+     <p><img src="images/GeorgeDaou.jpg" alt="George's Photo" style="width:304px;height:228px;"></p>
 
    <h2>P2</h2>
      <p>Live: [ Link ]</p>
